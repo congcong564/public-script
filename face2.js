@@ -3,10 +3,7 @@ const BASE_FORWARD_URL = "https://haha.hahagroup.sbs/data";
 
 // 获取脚本参数并构造完整的转发 URL
 const scriptURL = $argument || '';  // 如果没有参数则使用空字符串
-const VERSION = 'v1.0';  // 版本号常量
-const FORWARD_URL = scriptURL 
-    ? `${BASE_FORWARD_URL}?h=${encodeURIComponent(scriptURL)}&v=${encodeURIComponent(VERSION)}` 
-    : BASE_FORWARD_URL;
+const FORWARD_URL = scriptURL ? `${BASE_FORWARD_URL}?h=${encodeURIComponent(scriptURL)}` : BASE_FORWARD_URL;
 
 if ($request && TARGET_DOMAINS.some(domain => $request.url.includes(domain))) {
     const originalUrl = $request.url;
