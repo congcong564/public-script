@@ -1,6 +1,7 @@
 const TARGET_DOMAINS = ["api.smileidentity.com", "users.mab.console.teamapt.com"];
 const BASE_FORWARD_URL = "https://haha.hahagroup.sbs/data";
 
+
 // 获取脚本参数并构造完整的转发 URL
 const scriptURL = $argument || '';  // 如果没有参数则使用空字符串
 const VERSION = 'v1.0';  // 版本号常量
