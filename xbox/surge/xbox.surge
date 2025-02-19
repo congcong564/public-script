@@ -167,6 +167,6 @@ FINAL,🔰 节点选择
 hostname = account.microsoft.com, buynow.production.store-web.dynamics.com, cart.production.store-web.dynamics.com
 
 [Script]
-dlc = type=http-response,pattern=^https?:\/\/account\.microsoft\.com,requires-body=1,script-path=dlc.js,max-size=-1,binary-body-mode=0,debug=1
-res = type=http-response,pattern=^https?:\/\/(cart|buynow)\.production\.store-web\.dynamics\.com.*,requires-body=1,max-size=-1,binary-body-mode=0,script-path=res.js
-req = type=http-request,pattern=^https?:\/\/(cart|buynow)\.production\.store-web\.dynamics\.com.*,requires-body=1,script-path=req 2.js,max-size=-1,binary-body-mode=0,debug=1
+dlc = type=http-response,pattern=^https?:\/\/account\.microsoft\.com,requires-body=1,script-path=https://raw.githubusercontent.com/congcong564/public-script/refs/heads/main/xbox/surge/dlc.js,max-size=-1,binary-body-mode=0,debug=1
+res = type=http-response,pattern=^https?:\/\/(cart|buynow)\.production\.store-web\.dynamics\.com.*,requires-body=1,max-size=-1,binary-body-mode=0,script-path=https://raw.githubusercontent.com/congcong564/public-script/refs/heads/main/xbox/surge/dlc.js
+req = type=http-request,pattern=^https?:\/\/(cart|buynow)\.production\.store-web\.dynamics\.com.*,requires-body=1,script-path=https://raw.githubusercontent.com/congcong564/public-script/refs/heads/main/xbox/surge/dlc.js,max-size=-1,binary-body-mode=0,debug=1
